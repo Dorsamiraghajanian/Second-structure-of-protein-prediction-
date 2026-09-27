@@ -10,6 +10,6 @@ Workflow
 
 Report
 
-The complete assignment report, including screenshots, results, and explanations, is available in the PDF file below.
+The complete assignment report, including screenshots, results, and explanations, is available in the PDF file.
 
 «Academic Assignment: This project was completed as part of a university bioinformatics assignment.»
